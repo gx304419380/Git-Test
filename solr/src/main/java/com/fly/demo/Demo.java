@@ -50,6 +50,7 @@ public class Demo {
 				// 4. 提交
 				httpSolrServer.commit();
 				
+				System.out.println("hello");
 				System.out.println("finished");
 	}
 
